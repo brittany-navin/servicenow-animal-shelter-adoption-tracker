@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="DELETE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>72adba1297043110114a38271153af65</record_id>
+        <source_structure/>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-17 22:03:31</sys_created_on>
+        <sys_id>6e60c3d297043110114a38271153af59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_6e60c3d297043110114a38271153af59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-17 22:03:31</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</application>
+        <file_path/>
+        <instance_id>c6a22978db5b2c50f37acac50596199c</instance_id>
+        <instance_name>dev109460</instance_name>
+        <name>sn_ihub_data_mapping_definition_6e60c3d297043110114a38271153af59</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition"><sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE"><integration_table>sys_data_source</integration_table><published_source_structure/><record_id>72adba1297043110114a38271153af65</record_id><source_structure/><sys_class_name>sn_ihub_data_mapping_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-17 22:03:31</sys_created_on><sys_id>6e60c3d297043110114a38271153af59</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package><sys_policy/><sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope><sys_update_name>sn_ihub_data_mapping_definition_6e60c3d297043110114a38271153af59</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-17 22:03:31</sys_updated_on></sn_ihub_data_mapping_definition></record_update>]]></payload>
+        <payload_hash>786416118</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>722d47b9e8a1211076da10591ad287d8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-18 15:58:56</sys_created_on>
+        <sys_id>e78672e697003110114a38271153af4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18969b9de890000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-18 15:58:56</sys_updated_on>
+        <type>Integration Data Mapping Definition</type>
+        <update_guid>a38672e6310031102ce8e80b5833594e</update_guid>
+        <update_guid_history>a38672e6310031102ce8e80b5833594e:0,6660c3d2020431105cdb91756107c35b:-1903033202</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2b8672e697003110114a38271153af54</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-18 15:58:56</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_data_mapping_definition">sn_ihub_data_mapping_definition</sys_db_object>
+        <sys_id>0036a9756ca0461b80085382af34cbf9</sys_id>
+        <sys_metadata>6e60c3d297043110114a38271153af59</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_scope_delete display_value="">20274de8abeb471f93018970017d13f1</sys_scope_delete>
+        <sys_update_name>sn_ihub_data_mapping_definition_6e60c3d297043110114a38271153af59</sys_update_name>
+        <sys_update_version display_value="sn_ihub_data_mapping_definition_6e60c3d297043110114a38271153af59">e78672e697003110114a38271153af4e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-18 15:58:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

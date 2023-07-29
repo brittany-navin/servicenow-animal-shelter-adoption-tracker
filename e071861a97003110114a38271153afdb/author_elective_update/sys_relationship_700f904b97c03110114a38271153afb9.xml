@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_625061_animal_0_animal</basic_apply_to>
+        <basic_query_from>x_625061_animal_0_adoption_application</basic_query_from>
+        <insert_callback/>
+        <name>Adoption Applications for Animal</name>
+        <query_from/>
+        <query_with><![CDATA[current.addQuery('animal', parent.sys_id);]]></query_with>
+        <reference_field>animal</reference_field>
+        <related_list/>
+        <simple_reference>true</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-19 18:22:04</sys_created_on>
+        <sys_id>700f904b97c03110114a38271153afb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Adoption Applications for Animal</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_update_name>sys_relationship_700f904b97c03110114a38271153afb9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-19 18:22:04</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=700f904b97c03110114a38271153afb9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</application>
+        <file_path/>
+        <instance_id>c6a22978db5b2c50f37acac50596199c</instance_id>
+        <instance_name>dev109460</instance_name>
+        <name>sys_relationship_700f904b97c03110114a38271153afb9</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;x_625061_animal_0_animal&lt;/basic_apply_to&gt;&lt;basic_query_from&gt;x_625061_animal_0_adoption_application&lt;/basic_query_from&gt;&lt;insert_callback/&gt;&lt;name&gt;Adoption Applications for Animal&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[current.addQuery('animal', parent.sys_id);]]&gt;&lt;/query_with&gt;&lt;reference_field&gt;animal&lt;/reference_field&gt;&lt;related_list/&gt;&lt;simple_reference&gt;true&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-07-19 18:22:04&lt;/sys_created_on&gt;&lt;sys_id&gt;700f904b97c03110114a38271153afb9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Adoption Applications for Animal&lt;/sys_name&gt;&lt;sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0"&gt;e071861a97003110114a38271153afdb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Animal Shelter Adoption Tracker"&gt;e071861a97003110114a38271153afdb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_700f904b97c03110114a38271153afb9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-07-19 18:22:04&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=700f904b97c03110114a38271153afb9"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-759914566</payload_hash>
+        <record_name>Adoption Applications for Animal</record_name>
+        <reverted_from/>
+        <source>e471861a97003110114a38271153afdd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-19 18:22:04</sys_created_on>
+        <sys_id>c6e0ac8b97c03110114a38271153afcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1896f6346240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-19 18:22:04</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>0ee0ac8bb9c03110aca71e76a1a34eca</update_guid>
+        <update_guid_history>0ee0ac8bb9c03110aca71e76a1a34eca:-759914566</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-19 18:27:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>0f73abab43984b04ae0aaab720827a61</sys_id>
+        <sys_metadata>700f904b97c03110114a38271153afb9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Adoption Applications for Animal</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_parent display_value="Animal">0c96c25e97003110114a38271153afa8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_scope_delete display_value="">20274de8abeb471f93018970017d13f1</sys_scope_delete>
+        <sys_update_name>sys_relationship_700f904b97c03110114a38271153afb9</sys_update_name>
+        <sys_update_version display_value="sys_relationship_700f904b97c03110114a38271153afb9">c6e0ac8b97c03110114a38271153afcb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-19 18:27:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

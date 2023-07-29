@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>Populate the Breed table with spreadsheet of cat &amp; dog breeds</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>Breed</name>
+        <record_id>e0f347e297403110114a38271153afd3</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 16:57:27</sys_created_on>
+        <sys_id>2cf347e297403110114a38271153afc4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Breed</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_2cf347e297403110114a38271153afc4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 16:57:27</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</application>
+        <file_path/>
+        <instance_id>c6a22978db5b2c50f37acac50596199c</instance_id>
+        <instance_name>dev109460</instance_name>
+        <name>sn_ihub_integration_instance_2cf347e297403110114a38271153afc4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>Populate the Breed table with spreadsheet of cat &amp; dog breeds</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>Breed</name><record_id>e0f347e297403110114a38271153afd3</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-18 16:57:27</sys_created_on><sys_id>2cf347e297403110114a38271153afc4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Breed</sys_name><sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package><sys_policy/><sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope><sys_update_name>sn_ihub_integration_instance_2cf347e297403110114a38271153afc4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-18 16:57:27</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>-1058418149</payload_hash>
+        <record_name>Breed</record_name>
+        <reverted_from/>
+        <source>e471861a97003110114a38271153afdd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 16:57:27</sys_created_on>
+        <sys_id>b8f347e297403110114a38271153afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18969ef72920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 16:57:27</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>fcf347e2c24031100d82448fe67119db</update_guid>
+        <update_guid_history>fcf347e2c24031100d82448fe67119db:-1058418149</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Breed">3d84772297043110114a38271153aff5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 20:29:42</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>2c703afbedc249b593a2e7bdf00238b9</sys_id>
+        <sys_metadata>2cf347e297403110114a38271153afc4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Breed</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_scope_delete display_value="">20274de8abeb471f93018970017d13f1</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_2cf347e297403110114a38271153afc4</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_2cf347e297403110114a38271153afc4">b8f347e297403110114a38271153afdc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 20:29:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

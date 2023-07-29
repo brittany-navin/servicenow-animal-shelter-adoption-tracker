@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0c96c25e97003110114a38271153afa8" label="Animal" max_length="40" name="x_625061_animal_0_animal" type="collection">
+        <element label="Age" mandatory="true" max_length="38" name="age" type="decimal"/>
+        <element label="Breed" mandatory="true" max_length="32" name="breed" reference="x_625061_animal_0_breed" reference_qual="javascript:'type='+current.type" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Describe animal's background, personality, and temperment" mandatory="true" max_length="500" name="description" type="string"/>
+        <element choice="3" default="female" label="Gender" mandatory="true" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female" sequence="0" value="female"/>
+                <element inactive_on_update="false" label="Male" sequence="1" value="male"/>
+            </choice>
+        </element>
+        <element display="true" label="Animal name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Picture" max_length="40" name="picture" type="user_image"/>
+        <element choice="3" default="dog" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cat" sequence="0" value="cat"/>
+                <element inactive_on_update="false" label="Dog" sequence="1" value="dog"/>
+            </choice>
+        </element>
+    </element>
+</database>

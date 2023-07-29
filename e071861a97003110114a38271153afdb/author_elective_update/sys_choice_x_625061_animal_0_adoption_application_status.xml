@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-07-17 20:26:02</sys_created_on>
-            <sys_id>1a1a2a9e97803110114a38271153af55</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>status</sys_name>
             <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2023-07-17 20:26:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d21a2a9e97803110114a38271153af55</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-17 20:26:02</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2023-07-17 20:26:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5e1a2a9e97803110114a38271153af56</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-17 20:26:02</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2023-07-17 20:26:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>da1a2a9e97803110114a38271153af57</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-17 20:26:02</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2023-07-17 20:26:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5a1a2a9e97803110114a38271153af58</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-07-17 20:26:02</sys_updated_on>

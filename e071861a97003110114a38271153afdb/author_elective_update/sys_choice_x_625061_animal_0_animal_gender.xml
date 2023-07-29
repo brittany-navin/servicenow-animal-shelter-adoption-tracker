@@ -1,60 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_625061_animal_0_animal" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="gender" table="x_625061_animal_0_animal" version="3">
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>type</element>
+            <element>gender</element>
             <name>x_625061_animal_0_animal</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-17 18:49:24</sys_created_on>
-            <sys_id>b6f39e5a97403110114a38271153af8a</sys_id>
+            <sys_created_on>2023-07-17 18:24:40</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>type</sys_name>
+            <sys_name>gender</sys_name>
             <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
             <sys_policy/>
             <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
-            <sys_update_name>sys_choice_x_625061_animal_0_animal_type</sys_update_name>
+            <sys_update_name>sys_choice_x_625061_animal_0_animal_gender</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-17 18:49:24</sys_updated_on>
+            <sys_updated_on>2023-07-17 18:24:40</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>type</element>
+            <element>gender</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Cat</label>
+            <label>Female</label>
             <language>en</language>
             <name>x_625061_animal_0_animal</name>
             <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-17 18:49:24</sys_created_on>
+            <sys_created_on>2023-07-17 18:24:40</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>72f39e5a97403110114a38271153af8a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-17 18:49:24</sys_updated_on>
-            <value>cat</value>
+            <sys_updated_on>2023-07-17 18:45:38</sys_updated_on>
+            <value>female</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>type</element>
+            <element>gender</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Dog</label>
+            <label>Male</label>
             <language>en</language>
             <name>x_625061_animal_0_animal</name>
             <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-17 18:49:24</sys_created_on>
+            <sys_created_on>2023-07-17 18:24:40</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>faf39e5a97403110114a38271153af8b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-17 18:49:24</sys_updated_on>
-            <value>dog</value>
+            <sys_updated_on>2023-07-17 18:45:38</sys_updated_on>
+            <value>male</value>
         </sys_choice>
     </sys_choice>
 </record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="DELETE">
+        <child_id_field/>
+        <name>Target_x_625061_animal_0_breed</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path>x_625061_animal_0_breed</path>
+        <run_business_rules>true</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 17:07:07</sys_created_on>
+        <sys_id>d626c76697403110114a38271153af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Target_x_625061_animal_0_breed</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Breed_etl_ihub">8a2647e297403110114a38271153af8e</sys_rte_eb_definition>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_d626c76697403110114a38271153af48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 17:07:07</sys_updated_on>
+        <table>x_625061_animal_0_breed</table>
+    </sys_rte_eb_etl_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</application>
+        <file_path/>
+        <instance_id>c6a22978db5b2c50f37acac50596199c</instance_id>
+        <instance_name>dev109460</instance_name>
+        <name>sys_rte_eb_etl_entity_d626c76697403110114a38271153af48</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity"><sys_rte_eb_etl_entity action="INSERT_OR_UPDATE"><child_id_field/><name>Target_x_625061_animal_0_breed</name><parent_entity/><parent_id_field/><path>x_625061_animal_0_breed</path><run_business_rules>true</run_business_rules><synchronize_inserts>false</synchronize_inserts><sys_class_name>sys_rte_eb_etl_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-18 17:07:07</sys_created_on><sys_id>d626c76697403110114a38271153af48</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Target_x_625061_animal_0_breed</sys_name><sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package><sys_policy/><sys_rte_eb_definition display_value="Breed_etl_ihub">8a2647e297403110114a38271153af8e</sys_rte_eb_definition><sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope><sys_update_name>sys_rte_eb_etl_entity_d626c76697403110114a38271153af48</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-18 17:07:07</sys_updated_on><table>x_625061_animal_0_breed</table></sys_rte_eb_etl_entity></record_update>]]></payload>
+        <payload_hash>-1285948325</payload_hash>
+        <record_name>Target_x_625061_animal_0_breed</record_name>
+        <reverted_from/>
+        <source>e471861a97003110114a38271153afdd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 17:07:07</sys_created_on>
+        <sys_id>d226c76697403110114a38271153af4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18969f84be50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 17:07:07</sys_updated_on>
+        <type>ETL Entity</type>
+        <update_guid>1a26c76640403110072904ce6192e349</update_guid>
+        <update_guid_history>1a26c76640403110072904ce6192e349:-1285948325</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-18 20:29:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_entity">sys_rte_eb_etl_entity</sys_db_object>
+        <sys_id>03a62650a5a543e78aad301436329fe1</sys_id>
+        <sys_metadata>d626c76697403110114a38271153af48</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Target_x_625061_animal_0_breed</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_scope_delete display_value="">20274de8abeb471f93018970017d13f1</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_entity_d626c76697403110114a38271153af48</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_entity_d626c76697403110114a38271153af48">d226c76697403110114a38271153af4a</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-18 20:29:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
