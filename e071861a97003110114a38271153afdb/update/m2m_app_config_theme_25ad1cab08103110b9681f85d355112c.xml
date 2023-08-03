@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 17:40:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>25ad1cab08103110b9681f85d355112c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_update_name>m2m_app_config_theme_25ad1cab08103110b9681f85d355112c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 17:40:31</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">e5ad1cabd210311018e8a45ec84ff52c</theme>
+        <ux_app_configuration display_value="Animal Shelter Dashboard Config">61ad1cabc3103110e5470a02d6f1882d</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

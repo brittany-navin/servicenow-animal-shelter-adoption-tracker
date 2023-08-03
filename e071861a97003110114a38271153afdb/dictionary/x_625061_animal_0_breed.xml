@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="a8644f9697043110114a38271153afa5" label="Breed" max_length="40" name="x_625061_animal_0_breed" type="collection">
+    <element db_object_id="a8644f9697043110114a38271153afa5" label="Breed" max_length="40" name="x_625061_animal_0_breed" text_index="true" type="collection">
         <element display="true" label="Name" max_length="200" name="name" type="string"/>
         <element choice="3" label="Type" max_length="40" name="type" type="choice">
             <choice>

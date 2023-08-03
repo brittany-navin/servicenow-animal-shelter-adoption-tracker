@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="0c96c25e97003110114a38271153afa8" label="Animal" max_length="40" name="x_625061_animal_0_animal" type="collection">
+    <element db_object_id="0c96c25e97003110114a38271153afa8" label="Animal" max_length="40" name="x_625061_animal_0_animal" text_index="true" type="collection">
         <element label="Age" mandatory="true" max_length="38" name="age" type="decimal"/>
         <element label="Breed" mandatory="true" max_length="32" name="breed" reference="x_625061_animal_0_breed" reference_qual="javascript:'type='+current.type" type="reference" use_reference_qualifier="advanced"/>
         <element label="Describe animal's background, personality, and temperment" mandatory="true" max_length="500" name="description" type="string"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="f320e25697803110114a38271153af4b" label="Adoption Application" max_length="40" name="x_625061_animal_0_adoption_application" type="collection">
+    <element db_object_id="f320e25697803110114a38271153af4b" label="Adoption Application" max_length="40" name="x_625061_animal_0_adoption_application" text_index="true" type="collection">
         <element label="Animal" mandatory="true" max_length="32" name="animal" reference="x_625061_animal_0_animal" type="reference"/>
         <element label="Email" max_length="300" name="email" type="string"/>
         <element label="Adopter Name (First Last)" mandatory="true" max_length="200" name="name" type="string"/>

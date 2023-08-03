@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>61ad1cabc3103110e5470a02d6f1882d</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>animal-shelter-dashboard</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 17:40:31</sys_created_on>
+        <sys_id>2dad1cabe11031105ba1a4aa7e8de72c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Animal Shelter Dashboard</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_update_name>sys_ux_page_registry_2dad1cabe11031105ba1a4aa7e8de72c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 17:40:31</sys_updated_on>
+        <title>Animal Shelter Dashboard</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</application>
+        <file_path/>
+        <instance_id>c6a22978db5b2c50f37acac50596199c</instance_id>
+        <instance_name>dev109460</instance_name>
+        <name>sys_ux_page_registry_2dad1cabe11031105ba1a4aa7e8de72c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>61ad1cabc3103110e5470a02d6f1882d</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>animal-shelter-dashboard</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-02 17:40:31</sys_created_on><sys_id>2dad1cabe11031105ba1a4aa7e8de72c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Animal Shelter Dashboard</sys_name><sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package><sys_policy/><sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope><sys_update_name>sys_ux_page_registry_2dad1cabe11031105ba1a4aa7e8de72c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-02 17:40:31</sys_updated_on><title>Animal Shelter Dashboard</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1232891312</payload_hash>
+        <record_name>Animal Shelter Dashboard</record_name>
+        <reverted_from/>
+        <source>01b4771397332110114a38271153afb0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-07-08 18:10:12</sys_created_on>
+        <sys_id>6b33e8ef97103110114a38271153af6a</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18936b273a00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>2b33e8efe9103110a63b6904ef6da96a</update_guid>
+        <update_guid_history>2b33e8efe9103110a63b6904ef6da96a:1232891312</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 18:04:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>539eb1fa0d5248c3a809d61755bf5ba1</sys_id>
+        <sys_metadata>2dad1cabe11031105ba1a4aa7e8de72c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Animal Shelter Dashboard</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_scope_delete display_value="">20274de8abeb471f93018970017d13f1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_2dad1cabe11031105ba1a4aa7e8de72c</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_2dad1cabe11031105ba1a4aa7e8de72c">6b33e8ef97103110114a38271153af6a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 18:04:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

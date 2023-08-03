@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Animal Shelter Dashboard Config">189724672f503110022c249b050dca68</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>KB</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>kb_view</route_type>
+        <screen_type display_value="KB">d8972467cd503110af7f074c33f2e059</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 18:23:50</sys_created_on>
+        <sys_id>98972467bb503110ad979d042c1e075a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_update_name>sys_ux_app_route_98972467bb503110ad979d042c1e075a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 18:23:50</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</application>
+        <file_path/>
+        <instance_id>c6a22978db5b2c50f37acac50596199c</instance_id>
+        <instance_name>dev109460</instance_name>
+        <name>sys_ux_app_route_98972467bb503110ad979d042c1e075a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Animal Shelter Dashboard Config">189724672f503110022c249b050dca68</app_config><description/><extension_point/><fields>table,sysId</fields><icon/><name>KB</name><optional_parameters/><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>kb_view</route_type><screen_type display_value="KB">d8972467cd503110af7f074c33f2e059</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-02 18:23:50</sys_created_on><sys_id>98972467bb503110ad979d042c1e075a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>KB</sys_name><sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package><sys_policy/><sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope><sys_update_name>sys_ux_app_route_98972467bb503110ad979d042c1e075a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-02 18:23:50</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>1175014951</payload_hash>
+        <record_name>KB</record_name>
+        <reverted_from/>
+        <source>01b4771397332110114a38271153afb0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-07-08 18:10:12</sys_created_on>
+        <sys_id>f82860a797503110114a38271153afaf</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18936b273a00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Route</type>
+        <update_guid>b82860a7745031104ca01a077aad9baf</update_guid>
+        <update_guid_history>b82860a7745031104ca01a077aad9baf:1175014951</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 18:26:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>5db5803a0c1d46a293c0d3484f19d3c4</sys_id>
+        <sys_metadata>98972467bb503110ad979d042c1e075a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_scope_delete display_value="">20274de8abeb471f93018970017d13f1</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_98972467bb503110ad979d042c1e075a</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_98972467bb503110ad979d042c1e075a">f82860a797503110114a38271153afaf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 18:26:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

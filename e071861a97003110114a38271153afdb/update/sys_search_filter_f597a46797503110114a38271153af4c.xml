@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Breed">e0bd10eb97103110114a38271153af36</ais_search_source>
+        <label>Breed</label>
+        <name>Breed</name>
+        <order>200</order>
+        <search_context_config display_value="Animal Shelter Dashboard AI Search Configuration">549724672b503110f90b32c9b992275e</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 18:23:56</sys_created_on>
+        <sys_id>f597a46797503110114a38271153af4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Breed</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_625061_animal_0">e071861a97003110114a38271153afdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">e071861a97003110114a38271153afdb</sys_scope>
+        <sys_update_name>sys_search_filter_f597a46797503110114a38271153af4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 18:23:56</sys_updated_on>
+    </sys_search_filter>
+</record_update>
